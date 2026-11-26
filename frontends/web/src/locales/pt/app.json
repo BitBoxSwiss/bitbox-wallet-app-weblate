@@ -404,6 +404,9 @@
       "text": "Se você já se cadastrou no Bitsurance, o BitBoxApp pode sincronizar automaticamente sua cobertura de seguro existente.",
       "title": "Já está segurado?"
     },
+    "error": {
+      "unavailable": "Não foi possível contactar a Bitsurance. Por favor, tenta novamente mais tarde."
+    },
     "insure": {
       "button": "Verificar disponibilidade e preços",
       "faq": "Leia mais sobre perguntas frequentes sobre Bitsurance",
