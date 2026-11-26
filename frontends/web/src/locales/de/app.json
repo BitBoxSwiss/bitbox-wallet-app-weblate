@@ -403,6 +403,9 @@
       "text": "Wenn du bereits bei Bitsurance angemeldet bist, kann die BitBoxApp deinen bestehenden Versicherungsschutz automatisch synchronisieren.",
       "title": "Bereits versichert?"
     },
+    "error": {
+      "unavailable": "Bitsurance konnte nicht erreicht werden. Bitte versuche es später erneut."
+    },
     "insure": {
       "button": "Verfügbarkeit und Preis prüfen",
       "faq": "Lese mehr in den Bitsurance FAQs",
@@ -934,7 +937,7 @@
     "noDevice": "Keine Geräte verbunden",
     "secrets": {
       "manageBackups": "Backups verwalten",
-      "title": "Geheimnisse"
+      "title": "Sicherheit"
     }
   },
   "deviceTampered": "Falls deine BitBox mit einem Wiederherstellungspasswort geliefert wurde, beende das Setup sofort und kontaktiere den Support. BitBox versendet niemals Geräte, die schon ein Passwort haben und gibt keine Passwortempfehlungen.",
