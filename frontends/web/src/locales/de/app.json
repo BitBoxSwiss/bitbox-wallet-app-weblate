@@ -934,7 +934,7 @@
     "noDevice": "Keine Geräte verbunden",
     "secrets": {
       "manageBackups": "Backups verwalten",
-      "title": "Sicherheit"
+      "title": "Geheimnisse"
     }
   },
   "deviceTampered": "Falls deine BitBox mit einem Wiederherstellungspasswort geliefert wurde, beende das Setup sofort und kontaktiere den Support. BitBox versendet niemals Geräte, die schon ein Passwort haben und gibt keine Passwortempfehlungen.",
@@ -2553,7 +2553,9 @@
     "confirmOnBitBox": "Bestätige Swap auf der BitBox",
     "fastest": "Am schnellsten",
     "fetchQuotesError": "Preise können derzeit nicht abgerufen werden. Bitte versuche es erneut.",
+    "fetchStatusError": "Die Verfügbarkeit des Swaps konnte nicht geprüft werden. Bitte versuche es erneut.",
     "fetchingRoutes": "Sammle Routen...",
+    "firmwareUpgradeRequired": "Aktualisiere deine BitBox auf die neuste Firmware, um zu Swappen.",
     "insufficientGasFunds": "Du benötigst mehr ETH auf deinem <strong>{{accountName}}</strong> Konto, um die Netzwerkgebühren zu bezahlen. <buyLink>Jetzt ETH kaufen</buyLink>",
     "new": "Neuer Swap",
     "noRouteFound": "Keine Route gefunden",
@@ -2563,7 +2565,8 @@
     "recommended": "Empfohlen",
     "route": "Swap Route",
     "routesPlaceholder": "Routen werden hier angezeigt, nachdem ein Betrag eingegeben wurde",
-    "unexpectedError": "Ein unerwarteter Fehler ist aufgetreten."
+    "unexpectedError": "Ein unerwarteter Fehler ist aufgetreten.",
+    "updateFirmware": "Firmware aktualisieren"
   },
   "testWallet": {
     "connect": {
